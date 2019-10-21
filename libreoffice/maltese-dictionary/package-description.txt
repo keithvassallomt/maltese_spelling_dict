@@ -1,0 +1,4 @@
+Maltese dictionaries for OpenOffice/LibreOffice 3.2+.
+
+It includes:
+- mt_MT (Maltese) (updated: 2019-10-17)
