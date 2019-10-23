@@ -4,7 +4,7 @@ Maltese Spelling Dictionary
 | Info        | Value           |
 | ------------- |:-------------|
 | Word List Author      | Ramon Casha |
-| Repackaged By      | Keith Vassallo      |  
+| Repackaged By      | Keith Vassallo (keith@spelling.mt)      |  
 | Website | [https://spelling.mt](https://spelling.mt)      |
 | Number of Words | ~530,000      |
 | Version | 0.50-1      |

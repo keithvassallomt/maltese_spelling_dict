@@ -2,7 +2,7 @@ Maltese Spelling Dictionary
 ===========================
 
 Word list by:		  Ramon Casha (late)
-Repackaged by:		Keith Vassallo (keithv@me.com)
+Repackaged by:		Keith Vassallo (keith@spelling.mt)
 Website:        	https://spelling.mt
 Number of words:	~530,000
 Version:		      0.50-1

@@ -5,7 +5,7 @@ by Kevin Atkinson (kevina@gnu.org)
 Original Word List By:
   Ramon Casha (ramon casha at linux org mt)
 Repackaged By:
-  Keith Vassallo (keithv@me.com)
+  Keith Vassallo (keithv@spelling.mt)
 Copyright Terms: LGPL (see the file Copyright for the exact terms)
 Source Version: 0.3
 
@@ -59,4 +59,3 @@ the Word lists authors as I do not maintain the actual Word Lists.
 
 Any additional documentation that came with the original word list can
 be found in the doc/ directory.
-
