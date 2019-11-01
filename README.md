@@ -31,6 +31,17 @@ To create a document in Maltese
 1) **Tools** > **Language** > **For Paragraph**.
 2) From the language drop-down list choose **Maltese**.
 
+Microsoft Office on Windows
+---------------------------
+
+An Add-In is available for Microsoft Word that allows spell checking capabilities.
+
+To install:
+
+1) Go to the **maltese-spelling-checker-for-ms-word** folder, then go to **MalteseSpellCheckSetup** or **MalteseSpellCheckSetup64** folder depending on whether you have a 32-bit or 64-bit Microsoft Office installation.
+2) Go to the **Debug** folder.
+3) Double-click on **setup.exe** and follow instructions.
+
 Linux System-Wide
 -----------------
 

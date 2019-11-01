@@ -1,0 +1,30 @@
+C:\Users\keith\Source\Repos\maltese-spelling-checker-for-ms-word\KhmerSpellCheck\bin\Debug\Maltese Spell Check.dll
+C:\Users\keith\Source\Repos\maltese-spelling-checker-for-ms-word\KhmerSpellCheck\bin\Debug\Maltese Spell Check.pdb
+C:\Users\keith\Source\Repos\maltese-spelling-checker-for-ms-word\KhmerSpellCheck\bin\Debug\Maltese Spell Check.dll.manifest
+C:\Users\keith\Source\Repos\maltese-spelling-checker-for-ms-word\KhmerSpellCheck\bin\Debug\Maltese Spell Check.vsto
+C:\Users\keith\Source\Repos\maltese-spelling-checker-for-ms-word\KhmerSpellCheck\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.dll
+C:\Users\keith\Source\Repos\maltese-spelling-checker-for-ms-word\KhmerSpellCheck\bin\Debug\Microsoft.Office.Tools.v4.0.Framework.dll
+C:\Users\keith\Source\Repos\maltese-spelling-checker-for-ms-word\KhmerSpellCheck\bin\Debug\Microsoft.Office.Tools.Word.dll
+C:\Users\keith\Source\Repos\maltese-spelling-checker-for-ms-word\KhmerSpellCheck\bin\Debug\Microsoft.VisualStudio.Tools.Applications.Runtime.dll
+C:\Users\keith\Source\Repos\maltese-spelling-checker-for-ms-word\KhmerSpellCheck\obj\Debug\MalteseSpellCheck.frmMaltese.resources
+C:\Users\keith\Source\Repos\maltese-spelling-checker-for-ms-word\KhmerSpellCheck\obj\Debug\MalteseSpellCheck.MalteseSpellCheck.resources
+C:\Users\keith\Source\Repos\maltese-spelling-checker-for-ms-word\KhmerSpellCheck\obj\Debug\MalteseSpellCheck.Properties.Resources.resources
+C:\Users\keith\Source\Repos\maltese-spelling-checker-for-ms-word\KhmerSpellCheck\obj\Debug\MalteseSpellCheck.csproj.GenerateResource.cache
+C:\Users\keith\Source\Repos\maltese-spelling-checker-for-ms-word\KhmerSpellCheck\obj\Debug\MalteseSpellCheck.csproj.CopyComplete
+C:\Users\keith\Source\Repos\maltese-spelling-checker-for-ms-word\KhmerSpellCheck\obj\Debug\Maltese Spell Check.dll
+C:\Users\keith\Source\Repos\maltese-spelling-checker-for-ms-word\KhmerSpellCheck\obj\Debug\Maltese Spell Check.pdb
+C:\Users\keith\Source\Repos\maltese-spelling-checker-for-ms-word\MalteseSpellCheck\bin\Debug\Maltese Spell Check.dll
+C:\Users\keith\Source\Repos\maltese-spelling-checker-for-ms-word\MalteseSpellCheck\bin\Debug\Maltese Spell Check.pdb
+C:\Users\keith\Source\Repos\maltese-spelling-checker-for-ms-word\MalteseSpellCheck\bin\Debug\Maltese Spell Check.dll.manifest
+C:\Users\keith\Source\Repos\maltese-spelling-checker-for-ms-word\MalteseSpellCheck\bin\Debug\Maltese Spell Check.vsto
+C:\Users\keith\Source\Repos\maltese-spelling-checker-for-ms-word\MalteseSpellCheck\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.dll
+C:\Users\keith\Source\Repos\maltese-spelling-checker-for-ms-word\MalteseSpellCheck\bin\Debug\Microsoft.Office.Tools.v4.0.Framework.dll
+C:\Users\keith\Source\Repos\maltese-spelling-checker-for-ms-word\MalteseSpellCheck\bin\Debug\Microsoft.Office.Tools.Word.dll
+C:\Users\keith\Source\Repos\maltese-spelling-checker-for-ms-word\MalteseSpellCheck\bin\Debug\Microsoft.VisualStudio.Tools.Applications.Runtime.dll
+C:\Users\keith\Source\Repos\maltese-spelling-checker-for-ms-word\MalteseSpellCheck\obj\Debug\MalteseSpellCheck.frmMaltese.resources
+C:\Users\keith\Source\Repos\maltese-spelling-checker-for-ms-word\MalteseSpellCheck\obj\Debug\MalteseSpellCheck.MalteseSpellCheck.resources
+C:\Users\keith\Source\Repos\maltese-spelling-checker-for-ms-word\MalteseSpellCheck\obj\Debug\MalteseSpellCheck.Properties.Resources.resources
+C:\Users\keith\Source\Repos\maltese-spelling-checker-for-ms-word\MalteseSpellCheck\obj\Debug\MalteseSpellCheck.csproj.GenerateResource.cache
+C:\Users\keith\Source\Repos\maltese-spelling-checker-for-ms-word\MalteseSpellCheck\obj\Debug\MalteseSpellCheck.csproj.CopyComplete
+C:\Users\keith\Source\Repos\maltese-spelling-checker-for-ms-word\MalteseSpellCheck\obj\Debug\Maltese Spell Check.dll
+C:\Users\keith\Source\Repos\maltese-spelling-checker-for-ms-word\MalteseSpellCheck\obj\Debug\Maltese Spell Check.pdb
