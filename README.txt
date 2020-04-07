@@ -36,10 +36,10 @@ An Add-In is available for Microsoft Word that allows spell checking capabilitie
 
 To install,
 
-1) Go to the msoffice-mt folder, then go to
-MalteseSpellCheckSetup or MalteseSpellCheckSetup64 depending on whether you have
+1) Go to the msoffice-mt folder, then open
+MalteseSpellCheckSetup.msi or MalteseSpellCheckSetup64.msi depending on whether you have
 a 32-bit or 64-bit Microsoft Office installation. 
-2) Double-click on setup.exe and follow instructions.
+2) Follow installation instructions. 
 
 Linux System-Wide
 -----------------
