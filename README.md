@@ -6,8 +6,8 @@ Maltese Spelling Dictionary
 | Word List Author      | Ramon Casha |
 | Repackaged By      | Keith Vassallo (keith@spelling.mt)      |  
 | Website | [https://spelling.mt](https://spelling.mt)      |
-| Number of Words | ~530,000      |
-| Version | 0.50-1      |
+| Number of Words | ~540,000      |
+| Version | 0.70      |
 
 INSTALLATION
 ============
@@ -23,7 +23,7 @@ Note: Requires LibreOffice/OpenOffice 3.2 or newer.
 1) Open LibreOffice/OpenOffice.
 2) **Tools** > **Extension Manager**
 3) Click **Add**.
-4) Browse to this folder/libreoffice and click on **maltese-dictionary.oxt**
+4) Browse to this folder/libreoffice-mt and click on **maltese-dictionary.oxt**
 5) Restart LibreOffice/OpenOffice when prompted.
 
 To create a document in Maltese
@@ -38,9 +38,8 @@ An Add-In is available for Microsoft Word that allows spell checking capabilitie
 
 To install:
 
-1) Go to the **maltese-spelling-checker-for-ms-word** folder, then go to **MalteseSpellCheckSetup** or **MalteseSpellCheckSetup64** folder depending on whether you have a 32-bit or 64-bit Microsoft Office installation.
-2) Go to the **Debug** folder.
-3) Double-click on **setup.exe** and follow instructions.
+1) Go to the **msoffice-mt** folder, then go to **MalteseSpellCheckSetup** or **MalteseSpellCheckSetup64** folder depending on whether you have a 32-bit or 64-bit Microsoft Office installation.
+2) Double-click on **setup.exe** and follow instructions.
 
 Linux System-Wide
 -----------------
@@ -52,9 +51,9 @@ This enables Maltese system-wide spellchecking on the system.
 sudo apt install hunspell  # Debian-based systems
 sudo yum install hunspell  # Red Hat-based systems
 ```
-2) Copy the files in the **hunspell** folder of this dictionary to the system library folder:
+2) Copy the files in the **hunspell-mt** folder of this dictionary to the system library folder:
 ```shell
-sudo cp "/path/to/Maltese_Spellcheck/hunspell*/*" "/usr/share/hunspell/"
+sudo cp "/path/to/Maltese_Spellcheck/hunspell-mt/*" "/usr/share/hunspell/"
 ```
 To use Maltese spell checking in an app, please consult that app's documentation.
 
@@ -69,9 +68,9 @@ This enables Maltese system-wide spellchecking on the system.
 brew install hunspell
 sudo mkdir /Library/Spelling/
 ```
-3) Copy the files in the **hunspell** folder of this dictionary to the system library folder:
+3) Copy the files in the **hunspell-mt** folder of this dictionary to the system library folder:
 ```shell
-sudo cp "/path/to/Maltese_Spellcheck/hunspell*/*" "/Library/Spelling/"
+sudo cp "/path/to/Maltese_Spellcheck/hunspell-mt/*" "/Library/Spelling/"
 ```
 To use Maltese spell checking in an app, please consult that app's documentation.
 
