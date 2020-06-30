@@ -1,11 +1,11 @@
 Maltese Spelling Dictionary
 ===========================
 
-Word list by:		Ramon Casha (late)
+Word list by:		Ramon Casha (Original), Ġabra Project (new) - https://mlrs.research.um.edu.mt/resources/gabra/
 Repackaged by:		Keith Vassallo (keith@spelling.mt)
 Website:        	https://spelling.mt
-Number of words:	~540,000
-Version:		    0.70
+Number of words:	3,686,295
+Version:		    0.80
 
 INSTALLATION
 ============

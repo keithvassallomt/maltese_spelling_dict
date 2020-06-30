@@ -6,6 +6,16 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [0.80] - 2020-07-01
+### Added 
+- 2,838,655 words and word forms added thanks to collaboration with Ġabra project.
+
+### Changed
+- Each product now has a separate release on GitHub.
+
+### Removed
+- 
+
 ## [0.70] - 2020-04-07
 ### Added
 - A changelog is now being kept.

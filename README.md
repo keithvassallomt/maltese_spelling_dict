@@ -3,11 +3,11 @@ Maltese Spelling Dictionary
 
 | Info        | Value           |
 | ------------- |:-------------|
-| Word List Author      | Ramon Casha |
+| Word List Author      | Ramon Casha (Original), [https://mlrs.research.um.edu.mt/resources/gabra/](Ġabra Project (New)) |
 | Repackaged By      | Keith Vassallo (keith@spelling.mt)      |  
 | Website | [https://spelling.mt](https://spelling.mt)      |
-| Number of Words | ~540,000      |
-| Version | 0.70      |
+| Number of Words / Word Forms | 3,686,295      |
+| Version | 0.80      |
 
 INSTALLATION
 ============
