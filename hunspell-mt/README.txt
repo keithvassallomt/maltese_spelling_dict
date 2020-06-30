@@ -1,5 +1,5 @@
 mt_MT Hunspell Dictionary
-Version 0.70 (2020-04-07)
+Version 0.80 (2020-07-01)
 https://spelling.mt
 
 This dictionary was created from the Maltese word list for aspell,
